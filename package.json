@@ -1,6 +1,6 @@
 {
   "name": "feature-detect-generators",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Feature detect generators at installation time",
   "main": "feature-detect-generators.js",
   "scripts": {
