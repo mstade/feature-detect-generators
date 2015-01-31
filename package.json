@@ -1,0 +1,15 @@
+{
+  "name": "feature-detect-generators",
+  "version": "1.0.0",
+  "description": "Feature detect generators at installation time",
+  "main": "feature-detect-generators.js",
+  "scripts": {
+    "preinstall": "node feature-detect-generators"
+  },
+  "keywords": [
+    "feature-detect",
+    "generators"
+  ],
+  "author": "Marcus Stade",
+  "license": "MIT"
+}
