@@ -1,6 +1,6 @@
 {
   "name": "feature-detect-generators",
-  "version": "1.0.1",
+  "version": "1.1.0",
   "description": "Feature detect generators at installation time",
   "scripts": {
     "install": "feature-detect generators"
