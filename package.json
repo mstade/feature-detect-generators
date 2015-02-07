@@ -2,14 +2,24 @@
   "name": "feature-detect-generators",
   "version": "1.0.1",
   "description": "Feature detect generators at installation time",
-  "main": "feature-detect-generators.js",
   "scripts": {
-    "preinstall": "node feature-detect-generators"
+    "install": "feature-detect generators"
   },
   "keywords": [
     "feature-detect",
     "generators"
   ],
   "author": "Marcus Stade",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "feature-detect": "0.0.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mstade/feature-detect-generators.git"
+  },
+  "bugs": {
+    "url": "https://github.com/mstade/feature-detect-generators/issues"
+  },
+  "homepage": "https://github.com/mstade/feature-detect-generators"
 }
