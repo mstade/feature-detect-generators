@@ -12,7 +12,7 @@
   "author": "Marcus Stade",
   "license": "MIT",
   "dependencies": {
-    "feature-detect": "0.0.1"
+    "feature-detect": "1.0.0"
   },
   "repository": {
     "type": "git",
